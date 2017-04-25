@@ -1,1 +1,1 @@
-index.php
+index file for git pratice
